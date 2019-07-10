@@ -1,5 +1,8 @@
 /* Footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.never-gonna-use {
+    width: 1px;
+}
 
 .footerz {
     z-index: -1;
