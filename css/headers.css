@@ -117,7 +117,7 @@
 .header_about{
     width: 100%;
     height: 35vh;
-    background: url('/pages/nelszzp/nelszzp.github.io/images/nelszz.jpg') rgb(222, 222, 222);
+    background: url('https://raw.githubusercontent.com/nelszzp/nelszzp.github.io/master/images/nelszz.jpg') rgb(222, 222, 222);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -130,7 +130,7 @@
 .header_about{
     height: 45vh;
     width: 100%;
-    background: url('/pages/nelszzp/nelszzp.github.io/images/nelszz.jpg') rgb(222, 222, 222);
+    background: url('https://raw.githubusercontent.com/nelszzp/nelszzp.github.io/master/images/nelszz.jpg') rgb(222, 222, 222);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -145,7 +145,7 @@
 
 #splashy{
     height: 100vh;
-    background: url('/pages/nelszzp/nelszzp.github.io/images/_home/splash_mobile.png') rgb(222, 222, 222);
+    background: url('https://raw.githubusercontent.com/nelszzp/nelszzp.github.io/master/images/_home/splash_mobile.png') rgb(222, 222, 222);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -156,7 +156,7 @@
 /* Larger than phablet */
 @media (min-width: 550px) {
 #splashy{
-    background: url('/pages/nelszzp/nelszzp.github.io/images/_home/splash.png') rgb(222, 222, 222);
+    background: url('https://raw.githubusercontent.com/nelszzp/nelszzp.github.io/master/images/_home/splash.png') rgb(222, 222, 222);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
