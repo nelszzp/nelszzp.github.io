@@ -157,6 +157,10 @@
 @media (min-width: 550px) {
     #splashy{
         background: url('https://raw.githubusercontent.com/nelszzp/nelszzp.github.io/master/images/_home/splash.png') rgb(222, 222, 222);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-color: #f2f2f2;
     }
 }
 
